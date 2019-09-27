@@ -1,1 +1,2 @@
-# UCSD-Project3
+# EyeParker
+Run mtest2.py to see demo functionality
